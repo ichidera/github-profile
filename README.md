@@ -2,7 +2,9 @@
 
 # Hi, I'm Ichidera 👋
 
-### AI researcher, systems engineer, and open source creator.
+<a href="https://github.com/ichidera">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+researcher+%26+systems+engineer;Building+Mendel%2C+Mobstack%2C+Sanctify;Open+source%2C+always;Reasoning+agents+%26+long-term+value&font=Fira%20Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
 I build ambitious software for intelligence, reliability, and long-term value. My focus is AI, security, and developer tooling.
 
@@ -16,16 +18,64 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 </p>
 
 <p align="center">
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status Active" /></a>
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/badge/Expertise-AI-blue" alt="Expertise AI" /></a>
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/badge/Open%20Source-100%25-orange" alt="Open Source" /></a>
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/badge/Available-For%20Collab-4c1" alt="Available for Collab" /></a>
+</p>
+
+<!-- Social / contact badges — replace href="#" with your real profile URLs -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/sponsors/ichidera"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+</p>
+
+<p align="center">
   <img src="https://ghchart.rshah.org/ichidera" alt="Ichidera GitHub Contributions Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichidera&theme=tokyonight&hide_border=true" alt="Ichidera GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ichidera&theme=tokyonight&hide_border=true" alt="Ichidera GitHub Streak Stats" />
+</p>
+
+<!--
+  NOTE ON THIS FIX: the old herokuapp.com host is on Heroku's free-dyno tier,
+  which Heroku killed in 2022 — that URL is now unreliable/dead for many users.
+  streak-stats.demolab.com is the maintainer's current Vercel-hosted instance.
+  If it ever goes flaky again, self-hosting via the project's Docker/Vercel
+  deploy option gives you a permanent fix at the cost of ~10 min setup.
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ichidera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ichidera GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichidera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichidera&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ichidera&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 🚀 What I Build
+## � Pinned Projects
+
+| Project | Description | Link |
+| --- | --- | --- |
+| **Mendel** | AI capability evaluation and research platform | [github.com/ichidera/mendel](https://github.com/ichidera/mendel) |
+| **Mobstack** | Modern application platform for developers | [github.com/ichidera/mobstack](https://github.com/ichidera/mobstack) |
+| **Sanctify** | Offline-first Bible study app with elegant UX | [github.com/ichidera/sanctify](https://github.com/ichidera/sanctify) |
+| **AI Research** | Tools for reasoning, agents, and evaluation | [github.com/ichidera/ai-research](https://github.com/ichidera/ai-research) |
+
+---
+
+## �🚀 What I Build
 
 * 🧠 **Mendel** — AI capability evaluation and capability research platform.
 * 📦 **Mobstack** — Modern application platform for developers.
@@ -40,6 +90,7 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 * Username: `@ichidera`
 * GitHub metrics: followers, stars, contributions, commits, streaks
 * Profile widgets: views badge, follower badge, stars badge, contribution graph, streak stats
+* Profile features: pinned repos, contribution graph, collaboration link, status badges, profile visitors
 
 ---
 
@@ -57,6 +108,15 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,fastapi,flask,nodejs,git,linux,docker,vscode&theme=dark" alt="Skill Icons" />
+</p>
+
+<sub>Rendered via <a href="https://skillicons.dev">skillicons.dev</a> — a single lightweight SVG sprite rather than 11 separate shields.io calls, so it's one HTTP round-trip instead of eleven.</sub>
+
+<details>
+<summary>Text version (fallback if the icon set above doesn't render)</summary>
 
 ```text
 Languages
@@ -79,6 +139,8 @@ Tools
 └── VS Code
 ```
 
+</details>
+
 ---
 
 ## 📈 GitHub Widget Collection
@@ -91,6 +153,18 @@ Tools
 | Follower Badge | shields.io | GitHub follower count |
 | Star Badge | shields.io | GitHub star count |
 | GitHub Link | shields.io | Direct link to `github.com/ichidera` |
+| Active Badge | shields.io | Profile status / availability |
+| Open Source Badge | shields.io | Open source commitment |
+| Typing SVG | `readme-typing-svg.demolab.com` | Animated rotating tagline in the header |
+| Stats Card | `github-readme-stats.vercel.app` | Commits, PRs, issues, stars at a glance |
+| Top Languages | `github-readme-stats.vercel.app` | Language breakdown by bytes committed |
+| Activity Graph | `github-readme-activity-graph.vercel.app` | Daily commit activity over time |
+| Trophies | `github-profile-trophy.vercel.app` | Achievement badges (stars, streaks, PRs, etc.) |
+| Skill Icons | `skillicons.dev` | Compact tech-stack icon row, one request |
+| Contribution Snake | GitHub Action (`Platane/snk`) | Animated snake eating your contribution grid — self-hosted in your own repo, not a third party |
+| Quote Widget | `quotes-github-readme.vercel.app` | Rotating dev quote |
+
+<sub>**Cost note:** every row above except the Snake is a free third-party SVG-rendering service — no signup, no billing, but each one is a dependency you don't control. If a widget goes blank, it's almost always that specific host, not your markdown. For a profile this widget-dense, the single most reliable long-term option is <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>: it's one GitHub Action that generates *most* of the above (stats, languages, activity, even a WakaTime/Spotify plugin ecosystem) as one self-hosted image, so you trade a heavier initial YAML config for far fewer moving parts later.</sub>
 
 ---
 
@@ -116,6 +190,55 @@ Research
 ```
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ichidera/ichidera/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+</p>
+
+<sub>This one isn't a hosted API — it's a GitHub Action that runs in *your own* repo on a schedule, reads your contribution graph, and commits a generated SVG back to a branch. Setup cost: ~5 min, one workflow file, and afterward zero ongoing external dependency (unlike the badges above, it can't go down because someone else's free-tier server slept). Steps:</sub>
+
+<details>
+<summary>One-time setup (click to expand)</summary>
+
+1. In your `ichidera/ichidera` profile repo, create `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ "main" ]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ichidera
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it, let the Action run once, then the `output` branch will hold the SVG the image tag above points at.
+
+</details>
+
+## 💬 Today's Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 ## ⚡ Let's Connect
 
