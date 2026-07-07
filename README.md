@@ -10,17 +10,13 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 
 <p align="center">
   <a href="https://github.com/ichidera"><img src="https://komarev.com/ghpvc/?username=ichidera&label=Profile%20views&color=brightgreen" alt="Profile views" /></a>
-  <a href="https://github.com/ichidera"><img src="https://img.shields.io/github/followers/ichidera?label=Follow&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/github/followers/ichidera?label=Followers&style=social" alt="GitHub followers" /></a>
   <a href="https://github.com/ichidera"><img src="https://img.shields.io/github/stars/ichidera?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/badge/GitHub-ichidera-181717?style=for-the-badge&logo=github" alt="GitHub Profile" /></a>
 </p>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ichidera&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ichidera GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichidera&layout=compact&theme=tokyonight&hide_border=true" alt="Ichidera Top Languages" />
-</div>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ichidera&theme=tokyonight&no-frame=true&margin-w=10" alt="Ichidera GitHub Trophies" />
+  <img src="https://ghchart.rshah.org/ichidera" alt="Ichidera GitHub Contributions Graph" />
 </p>
 
 <p align="center">
@@ -42,8 +38,8 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 
 * GitHub: [github.com/ichidera](https://github.com/ichidera)
 * Username: `@ichidera`
-* GitHub stats: stars, commits, PRs, issues, repos, followers, contributions
-* Profile badges: views, followers, stars, trophy case, streak record, top languages
+* GitHub metrics: followers, stars, contributions, commits, streaks
+* Profile widgets: views badge, follower badge, stars badge, contribution graph, streak stats
 
 ---
 
@@ -89,13 +85,12 @@ Tools
 
 | Widget | Source | Purpose |
 | --- | --- | --- |
-| GitHub Readme Stats | `github-readme-stats` | Summary metrics for `@ichidera` |
-| Top Languages | `github-readme-stats` | Most used languages on GitHub |
-| GitHub Trophies | `github-profile-trophy` | Gamified contribution achievements |
+| Contribution Graph | `ghchart.rshah.org` | GitHub contributions overview for `@ichidera` |
 | Streak Stats | `github-readme-streak-stats` | Daily contribution streak display |
 | Profile Views | `ghpvc` | Visitor count for the repository |
 | Follower Badge | shields.io | GitHub follower count |
 | Star Badge | shields.io | GitHub star count |
+| GitHub Link | shields.io | Direct link to `github.com/ichidera` |
 
 ---
 
