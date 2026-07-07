@@ -1,21 +1,33 @@
-<div align="center">
+﻿<div align="center">
 
 # Hi, I'm Ichidera 👋
 
-### Building intelligent systems that think, reason, and create.
+### AI researcher, systems engineer, and open source creator.
 
-I enjoy designing ambitious software—from AI research platforms to developer tools and cybersecurity systems. I care deeply about software architecture, clean engineering, and building things that are useful for years rather than weeks.
+I build ambitious software for intelligence, reliability, and long-term value. My focus is AI, security, and developer tooling.
 
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ichidera&show_icons=true&theme=tokyonight&count_private=true" alt="Ichidera's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ichidera&theme=tokyonight&no-frame=true&margin-w=10" alt="Ichidera's GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichidera&theme=tokyonight" alt="Ichidera's GitHub Streak Stats" />
+</p>
+
 ---
 
-## 🚀 Currently Building
+## 🚀 What I Build
 
-* 🧠 **Mendel** — An AI capability evaluation and research platform.
-* 📦 **Mobstack** — A modern application platform.
-* 📖 **Sanctify** — A minimal, offline-first Bible study application.
-* 🤖 Exploring autonomous AI systems, reasoning architectures, and agent design.
+* 🧠 **Mendel** — AI capability evaluation and research platform.
+* 📦 **Mobstack** — Modern application platform for developers.
+* 📖 **Sanctify** — Offline-first Bible study app with clean UX.
+* 🤖 Autonomous AI systems, agent design, and reasoning architectures.
 
 ---
 
@@ -32,7 +44,7 @@ I enjoy designing ambitious software—from AI research platforms to developer t
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 ```text
 Languages
@@ -57,15 +69,15 @@ Tools
 
 ---
 
-## Philosophy
+## 🎯 Philosophy
 
-> Build software that remains useful after the excitement of new technology fades.
+> Build software that is useful, maintainable, and intentionally designed for the long run.
 
-I believe great software is simple on the surface, thoughtfully engineered underneath, and designed with long-term maintainability in mind.
+I focus on simplicity, thoughtful architecture, and systems that still matter after the next trend passes.
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
 | Project      | Description                                           |
 | ------------ | ----------------------------------------------------- |
@@ -75,7 +87,7 @@ I believe great software is simple on the surface, thoughtfully engineered under
 
 ---
 
-## Current Focus
+## 📍 Current Focus
 
 ```text
 Learning
@@ -90,14 +102,14 @@ Research
 
 ---
 
-## Let's Connect
+## ⚡ Connect
 
-If you're interested in AI, open source, cybersecurity, or building thoughtful software, feel free to explore my repositories or start a discussion.
+If you're building AI, security tools, or open source systems, let’s connect through GitHub or explore my repositories.
 
 ---
 
 <div align="center">
 
-*"The best software feels inevitable."*
+*"The best software feels inevitable."
 
 </div>
