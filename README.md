@@ -9,25 +9,41 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichidera&show_icons=true&theme=tokyonight&count_private=true" alt="Ichidera's GitHub Stats" />
+  <a href="https://github.com/ichidera"><img src="https://komarev.com/ghpvc/?username=ichidera&label=Profile%20views&color=brightgreen" alt="Profile views" /></a>
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/github/followers/ichidera?label=Follow&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/ichidera"><img src="https://img.shields.io/github/stars/ichidera?style=social" alt="GitHub stars" /></a>
+</p>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ichidera&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Ichidera GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichidera&layout=compact&theme=tokyonight&hide_border=true" alt="Ichidera Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ichidera&theme=tokyonight&no-frame=true&margin-w=10" alt="Ichidera GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ichidera&theme=tokyonight&no-frame=true&margin-w=10" alt="Ichidera's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichidera&theme=tokyonight" alt="Ichidera's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichidera&theme=tokyonight&hide_border=true" alt="Ichidera GitHub Streak Stats" />
 </p>
 
 ---
 
 ## 🚀 What I Build
 
-* 🧠 **Mendel** — AI capability evaluation and research platform.
+* 🧠 **Mendel** — AI capability evaluation and capability research platform.
 * 📦 **Mobstack** — Modern application platform for developers.
-* 📖 **Sanctify** — Offline-first Bible study app with clean UX.
-* 🤖 Autonomous AI systems, agent design, and reasoning architectures.
+* 📖 **Sanctify** — Offline-first Bible study app with elegant and reliable UX.
+* 🤖 Autonomous AI systems, agent orchestration, and reasoning architectures.
+
+---
+
+## 🌟 GitHub Profile Highlights
+
+* GitHub: [github.com/ichidera](https://github.com/ichidera)
+* Username: `@ichidera`
+* GitHub stats: stars, commits, PRs, issues, repos, followers, contributions
+* Profile badges: views, followers, stars, trophy case, streak record, top languages
 
 ---
 
@@ -69,25 +85,29 @@ Tools
 
 ---
 
-## 🎯 Philosophy
+## 📈 GitHub Widget Collection
 
-> Build software that is useful, maintainable, and intentionally designed for the long run.
-
-I focus on simplicity, thoughtful architecture, and systems that still matter after the next trend passes.
-
----
-
-## 🌟 Featured Projects
-
-| Project      | Description                                           |
-| ------------ | ----------------------------------------------------- |
-| **Mendel**   | AI evaluation, benchmarking, and capability research. |
-| **Mobstack** | Modern application platform.                          |
-| **Sanctify** | Beautiful offline Bible study experience.             |
+| Widget | Source | Purpose |
+| --- | --- | --- |
+| GitHub Readme Stats | `github-readme-stats` | Summary metrics for `@ichidera` |
+| Top Languages | `github-readme-stats` | Most used languages on GitHub |
+| GitHub Trophies | `github-profile-trophy` | Gamified contribution achievements |
+| Streak Stats | `github-readme-streak-stats` | Daily contribution streak display |
+| Profile Views | `ghpvc` | Visitor count for the repository |
+| Follower Badge | shields.io | GitHub follower count |
+| Star Badge | shields.io | GitHub star count |
 
 ---
 
-## 📍 Current Focus
+## 📊 More Profile Features
+
+* `README.md` includes every major GitHub profile markdown feature available today.
+* All links and mentions use `github.com/ichidera` and `@ichidera`.
+* Designed to appear as a complete GitHub profile landing page.
+
+---
+
+## 🌱 Current Focus
 
 ```text
 Learning
@@ -102,9 +122,11 @@ Research
 
 ---
 
-## ⚡ Connect
+## ⚡ Let's Connect
 
-If you're building AI, security tools, or open source systems, let’s connect through GitHub or explore my repositories.
+* GitHub: [github.com/ichidera](https://github.com/ichidera)
+* Profile: `@ichidera`
+* If you're building AI, security tools, or open source systems, let's collaborate.
 
 ---
 
