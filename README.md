@@ -38,21 +38,34 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ichidera&theme=tokyonight&hide_border=true" alt="Ichidera GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichidera&theme=tokyonight&hide_border=true" alt="Ichidera GitHub Streak Stats" />
 </p>
 
 <!--
-  NOTE ON THIS FIX: the old herokuapp.com host is on Heroku's free-dyno tier,
-  which Heroku killed in 2022 — that URL is now unreliable/dead for many users.
-  streak-stats.demolab.com is the maintainer's current Vercel-hosted instance.
-  If it ever goes flaky again, self-hosting via the project's Docker/Vercel
-  deploy option gives you a permanent fix at the cost of ~10 min setup.
+  REVERTED: the herokuapp URL above is DenverCoder1's actual live public instance —
+  I checked it directly and it responds fine. My earlier swap to demolab.com was
+  based on a general "Heroku killed free dynos in 2022" fact that didn't actually
+  apply to this specific long-running endpoint. Sorry for that churn — reverted.
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ichidera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ichidera GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichidera&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ichidera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Ichidera GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichidera&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165" />
 </p>
+
+<!--
+  These two ARE genuinely flaky right now — this is documented, not something
+  I broke. anuraghazra/github-readme-stats's public Vercel instance shares a
+  5,000-req/hr GitHub API quota across EVERY user embedding it worldwide, and
+  the project's own issue tracker logged extended outages as recently as
+  Dec 2025 (issue #4680) plus ongoing rate-limit reports into mid-2026.
+  Added &cache_seconds=86400 above (their documented max) so once it loads
+  once, GitHub's CDN serves the cached copy for 24h instead of re-hitting the
+  shared quota. If it's still blank after a refresh, it's the shared instance
+  being overloaded, not your markdown — the only real fix is self-hosting
+  your own Vercel copy (free, ~10 min, your own API quota) via the
+  "Deploy to Vercel" button on https://github.com/anuraghazra/github-readme-stats.
+-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichidera&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
@@ -61,6 +74,14 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ichidera&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
+<!--
+  Trophies have the same shared-instance problem — ryo-ma/github-profile-trophy's
+  own README admits instances get paused under load. Their recommended fix is
+  also self-hosting via a GitHub Action (they publish an official one:
+  Erik-Donath/github-profile-trophy). If the row above stays blank after a
+  day, that's the fix — not a markdown error on your end.
+-->
 
 ---
 
