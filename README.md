@@ -52,7 +52,7 @@ I build ambitious software for intelligence, reliability, and long-term value. M
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ichidera&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/ichidera/ichidera/output/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 <details>
